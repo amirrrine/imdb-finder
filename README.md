@@ -1,1 +1,2 @@
-my first solo project that i wrote in last month of 2024 uploaded in july of 2025 
+Completed my first React project in December 2024, which was successfully deployed in July 2025.
+
